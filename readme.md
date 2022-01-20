@@ -1,16 +1,12 @@
-usmarkettracker ReadMe
-
-[usmarkettracker]
-
-Created by [Vivek Maniyar]()
+# usmarkettracker
 
 
 
-**Version 1.0**
+## About Project
 
 usmarkettracker is a website that provides its users with current and historical data for S&P500 stocks, Cryptocurrencies and specific currencies. It also provide users the current news which can affect the market. The site was built using HTML, PHP, and Javascript. usmarkettracker uses Alpha Vantage's API in order to retrieve current and historical financial data and uses coinmarketcap widget to display cryptocurrency data.
 
-_**Scope of usmarkettracker:**_
+## Scope
 1. Forex Converter - provides real time currency exchange rate for the following currencies:
     * US dollar
     * Canadian Dollar
@@ -30,7 +26,7 @@ _**Scope of usmarkettracker:**_
 
 4. News - Provides news which can affect price of stocks or cryptocurrency
 
-_**Methodology:**_
+## Methodology
 
   The website was built using HTML, PHP, and Javascript. 
   
@@ -68,7 +64,7 @@ _**Methodology:**_
 
       This widget provides all the news to the user so that they can keep track of what is happening in the market.
     
-_**Limitations:**_ 
+## Limitations 
 
   The current version of usmarkettracker has the following limitiations, which will be addressed in succeeding versions:
     
